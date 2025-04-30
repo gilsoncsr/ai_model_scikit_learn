@@ -4,6 +4,16 @@
 
 This project performs an analysis of diabetes examination data using Python. It includes data preprocessing, visualization, and regression models to identify potential correlations and predict outcomes.
 
+1. Clone Repository
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Jupyter Notebook
+
 ---
 
 ## Español
